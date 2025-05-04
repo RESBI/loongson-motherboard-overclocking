@@ -1,27 +1,17 @@
-# 3A6000-XA612A0-Overclock
-3A6000-7A2000 Demo board XA612A0 Overclocking BIOS and notes on them. Will be updated as latest officil firmware released. 
+# Loongson Board Overclocking Firmwares
+This repo provides overclocking firmwares for multiple LoongArch CPU Motherboards from Loongson. 
 
-# Explanations 
-Todo... 
+THIS MIGHT DAMAGE YOUR MOTHERBOARD OR CPU, PLEASE FLASH THEM AFTER SERIOUS CONSIDERATION. ANY DAMAGES CAUSED BY THE FIRMWARES DOWNLOADED FROM HERE SHOULD BE CHARGED BY USERS THEMSELF.
 
-# Benchmarks 
+# Tested motherboards
+## XA612A0 (v1.1)
 
-## 核心电压曲线 / Vcore curve
-<p align="center">
-  <img src="/pics/FREQ-VOLT.png">
-</p>
+3A6000 + 7A2000
 
-## stream.c and Mathematica(LATX)
-<p align="center">
-  <img src="/pics/3A6000vs3A5000.png">
-</p>
+## XB612B0 (v1.0)
 
-## 核间延迟变化 / Core to core latency various
-<p align="center">
-  <img src="/pics/3A6000-C2CLAT.png">
-</p>
+3B6000 + 7A2000
 
-## 功耗增量 / Power comsunption increasements
-<p align="center">
-  <img src="/pics/3A6000-PWR-VDDN.png">
-</p>
+## L5LMB01
+
+3A5000 + 7A1000
