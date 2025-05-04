@@ -8,20 +8,20 @@ Todo...
 
 ## 核心电压曲线 / Vcore curve
 <p align="center">
-  <img src="/pics/FREQ-VOLT.png">
+  <img src="pics/FREQ-VOLT.png">
 </p>
 
 ## stream.c and Mathematica(LATX)
 <p align="center">
-  <img src="/pics/3A6000vs3A5000.png">
+  <img src="pics/3A6000vs3A5000.png">
 </p>
 
 ## 核间延迟变化 / Core to core latency various
 <p align="center">
-  <img src="/pics/3A6000-C2CLAT.png">
+  <img src="pics/3A6000-C2CLAT.png">
 </p>
 
 ## 功耗增量 / Power comsunption increasements
 <p align="center">
-  <img src="/pics/3A6000-PWR-VDDN.png">
+  <img src="pics/3A6000-PWR-VDDN.png">
 </p>
