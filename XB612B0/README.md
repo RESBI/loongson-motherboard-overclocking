@@ -1,6 +1,6 @@
 # XB612B0
 
-3B6000 + 7A2000 dev board from Loongson. Everything is based on extracted bios file `Extracted20250501/3B6000.bin` from whom already got the board. Thanks 小胖 ([bilibili page](https://www.bilibili.com/video/BV1gDGez8EfG)) for testing these firmwares. 
+3B6000 + 7A2000 dev board from Loongson. Everything is based on extracted bios file `Extracted20250501/3B6000.bin` from whom already got the board. Thanks 小胖 ([bilibili page](https://www.bilibili.com/video/BV1gDGez8EfG)) for testing these firmwares, thanks group members for providing hints on AVS setting part. 
 
 # Overclocking settings
 
