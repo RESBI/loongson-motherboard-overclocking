@@ -1,5 +1,5 @@
 # Loongson Board Overclocking Firmwares
-This repo provides overclocking firmwares for multiple LoongArch CPU Motherboards from Loongson. 
+This repo provides overclocking firmwares for some LoongArch CPU Motherboards from Loongson. 
 
 THIS MIGHT DAMAGE YOUR MOTHERBOARD OR CPU, PLEASE FLASH THEM AFTER SERIOUS CONSIDERATION. ANY DAMAGES CAUSED BY THE FIRMWARES DOWNLOADED FROM HERE SHOULD BE CHARGED BY USERS THEMSELF.
 
